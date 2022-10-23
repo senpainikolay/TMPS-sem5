@@ -1,10 +1,11 @@
-package com.TaxiFactoryMethod.taxi;
+package com.TaxiFactoryMethod.taxi; 
+
 
 import com.Main; 
 
 
 public class ConfortTaxi implements Taxi {  
-    private int conditionerDegree;   
+    public int conditionerDegree;   
     private void InformAboutConditioner() { 
      System.out.printf("Conditioner set at %s ", conditionerDegree);       
     }  
