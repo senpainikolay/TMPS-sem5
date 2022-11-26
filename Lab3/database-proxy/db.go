@@ -1,4 +1,4 @@
-package inMemoryDB
+package database
 
 import "bytes"
 

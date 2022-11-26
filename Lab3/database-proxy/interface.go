@@ -1,4 +1,4 @@
-package inMemoryDB
+package database
 
 type DatabaseProcesses interface {
 	RegisterUser(string, []byte) bool

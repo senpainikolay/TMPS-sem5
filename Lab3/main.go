@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	dbMod "github.com/senpainikolay/TMPS-sem5/lab2/database-proxy"
+	dbMod "github.com/senpainikolay/TMPS-sem5/Lab3/database-proxy"
 )
 
 // declare the interface

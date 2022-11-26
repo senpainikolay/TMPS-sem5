@@ -1,4 +1,4 @@
-module github.com/senpainikolay/TMPS-sem5/lab2
+module github.com/senpainikolay/TMPS-sem5/Lab3
 
 go 1.18
 

@@ -1,10 +1,10 @@
-package inMemoryDB
+package database
 
 import (
 	"math/rand"
 
-	wallet "github.com/senpainikolay/TMPS-sem5/lab2/digital-wallet-facade"
-	pizzaGenerator "github.com/senpainikolay/TMPS-sem5/lab2/pizza-generator-decorator"
+	wallet "github.com/senpainikolay/TMPS-sem5/Lab3/digital-wallet-facade"
+	pizzaGenerator "github.com/senpainikolay/TMPS-sem5/Lab3/pizza-generator-decorator"
 )
 
 const (
