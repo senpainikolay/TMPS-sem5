@@ -82,7 +82,8 @@ public class TicketCompany {
     public void pay(){
         ourStrategy.pay();
     }
-}
+} 
+```
 ---  
 ##### The Main.java code 
 ``` 
